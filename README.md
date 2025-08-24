@@ -35,7 +35,7 @@ This is page available for CLIENT accounts and with assigned Company and assigne
 
 https://github.com/user-attachments/assets/5ae8927d-7133-4e7e-9a53-34ce70cf8b3d
 
-## Side settings
+## Website settings
 Here ADMIN accounts can change different parts of the website, like SMTP, DB, Uploads settings.
 
 https://github.com/user-attachments/assets/067988cf-15d6-4117-8770-435b6d8668a6
